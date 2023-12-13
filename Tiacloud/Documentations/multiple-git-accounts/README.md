@@ -44,8 +44,8 @@ touch ~/.gitconfig-tiacloud
 
 # paste the below: replace with your tiacloud credentials
 [user]
-  email = sharhan.alhassan@tiacloud.co.uk
-  name  = sharhanalhassan
+  email = sadic.abubakari@tiacloud.co.uk
+  name  = sadicabubakari
 ```
 
 # 6. For Windows Users
